@@ -1,0 +1,9 @@
+{
+  "name": "blockyoutubeads",
+  "website": "https://github.com/Itsvinayhere/Blockyoutubeads",
+  "description": "trying to block annoying youtubeads",
+  "source": {
+    "url": "https://github.com/Itsvinayhere/Blockyoutubeads/blob/main/Block_youtubeads.txt",
+    "format": "domains"
+  }
+}
